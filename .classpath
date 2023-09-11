@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="mavenproject1/src/main/java"/>
+	<classpathentry kind="lib" path="mavenproject1/target/mavenproject1-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="mavenproject1/target/classes"/>
+</classpath>
